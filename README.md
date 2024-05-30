@@ -1,8 +1,8 @@
 # WITBIT
 An Improv Scene Partner LLM
 
-
-
+Repository Structure
+```plaintext
 improv-rag/
 ├── data/
 │   ├── scenes/
@@ -42,3 +42,4 @@ improv-rag/
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
+```
