@@ -11,6 +11,8 @@ Purpose: Improv Scene Partner LLM
 
 Implementation: (Retrieval-Augmented Generation) system employing a fine-tuned OpenAI model designed to enhance improvisational dialogue response quality for virtual scene partners.
 
+Data Curation Methodology: 
+
 
 ##  :wrench: Development
 ###  :file_folder: File Structure
