@@ -1,9 +1,23 @@
 # WITBIT
-An Improv Scene Partner LLM
 
-Repository Structure
+## :ledger: Index
+
+- [About](#beginner-about)
+- [Development](#wrench-development)
+  - [File Structure](#file_folder-file-structure)
+
+##  :beginner: About
+Purpose: Improv Scene Partner LLM
+
+Implementation: (Retrieval-Augmented Generation) system employing a fine-tuned OpenAI model designed to enhance improvisational dialogue response quality for virtual scene partners.
+
+
+##  :wrench: Development
+###  :file_folder: File Structure
+## Envisioned Finished Repo Structure:
+> *Note: This repo structure represents the goal of the final project and the first milestone is to have an MVP that will not include improv coaching (notes & feedback) feature*
 ```plaintext
-improv-rag/
+WITBIT/
 ├── data/
 │   ├── scenes/
 │   │   ├── scene1.json
